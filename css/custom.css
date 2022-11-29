@@ -1,0 +1,27 @@
+.original-price {
+	font-size: 75%;
+	stroke: black;
+}
+
+.percent-box {
+	background-color: #060;
+	opacity: .8;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	color: #fff;
+	padding: 0 5px;
+	font-size: 12px;
+	line-height: 22px;
+	font-weight: normal;
+	letter-spacing: 1px;
+	font-family: Lato, Helvetica, Arial, sans-serif;
+}
+
+.featured-item {
+	height: 300px;
+}
+
+.team {
+	height: 550px;
+	width: 550px;
+}
